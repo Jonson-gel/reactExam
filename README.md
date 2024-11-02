@@ -1,5 +1,8 @@
 # React In-class Exam, November 2024
 
+Name: Pengcheng Zheng
+Student Number: 20109317
+
 ## 1. Setup instructions
 
 This repository contains the starting code for a lab-based React assessment. 
